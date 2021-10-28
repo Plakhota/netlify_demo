@@ -2,6 +2,9 @@
   publish = "_site"
   command = "eleventy"
 
+[[plugins]]
+  package = "netlify-plugin-visual-diff"
+
 # REDIRECT and HEADERS examples
 
 # Redirect rule example
