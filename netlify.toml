@@ -3,7 +3,7 @@
   command = "eleventy"
 
 [[plugins]]
-  package = "netlify-plugin-visual-diff"
+  package = "netlify-plugin-visual-diff-debug"
 
 # REDIRECT and HEADERS examples
 
