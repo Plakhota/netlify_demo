@@ -1,6 +1,7 @@
 [build]
   publish = "_site"
   command = "eleventy"
+  command = "npm install -D netlify-plugin-visual-diff-debug"
 
 [[plugins]]
   package = "netlify-plugin-visual-diff-debug"
